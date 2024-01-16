@@ -4,11 +4,13 @@ Flight Delays and Cancellations are not uncommon. There may be patterns in these
 
 Color coding will be used to indicate the frequency of delayed or canceled flights for destination and origin airports, as well as airlines. Some other features will include the formation of tables that display the number of flights delayed per origin and departure airport, a running leaderboard ranking airlines with the fewest number of delays and cancellations to the ones with the most. Graphical representations of the data will also be presented along with the map and tables, which will predict future flight delays (based on either location or airport). 
 
-* Data
+* **Data:**
+  
 The data we will be using consist of flight delays and cancellations from 2015 published by the DOT's Bureau of Transportation Statistics. We will extract IATA_code, airport, city, state, departure delay, and dates from the three CSV files of flight information. We plan on utilizing geographical data (airport, city, state, etc) to aid in the construction of our map, and other statistics (such as departure time, weather delays, cancelations, etc) to create our own tables, rankings, and predictions. 
 
 
-* Basic Functions
+* **Basic Functions:**
+  
 The purpose of our website is to visualize flight delay and cancelation data in a comprehensive and user-friendly way. The main functions will consist of a map with all the airport locations marked in color-coordinated symbols indicating details like delayed, on-time, diverted, and canceled flights per location. Some simple functions include having multiple summarizing tables and displaying delay and cancelation frequencies for respective airlines and locations, allowing users to make better decisions when booking flights for the future. One of the more complicated functions is the prediction feature, which will allow users to input airlines or flight paths (origin and destination) to view a program-generated estimate of whether delays will occur. 
 
 ### Creative Component
