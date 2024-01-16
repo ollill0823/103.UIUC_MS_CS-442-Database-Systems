@@ -2,10 +2,7 @@
 
 # Stage6: Project Report and Demo Video
 ------------------------------------------
-## 0.	Demo video
 
-Link to video:
-https://drive.google.com/file/d/1E4MYyppi5NvNjV05q9qF-FlV2OWrKuCx/view?usp=sharing
 
 ## 1.	Please list out changes in the directions of your project if the final project is different from your original proposal (based on your stage 1 proposal submission).
 
@@ -33,13 +30,13 @@ Our source data was also changed such that it was reduced into a more manageable
 
 This is our first version of the schema.
  <p align="center">
-  <img src="https://github.com/cs411-alawini/sp23-cs411-team018-FinalProject/blob/main/doc/Stage6_Project%20Report%20and%20Demo%20Video/Image/411Group18-Stage2_ER_diagram-v01.drawio.png" alt="ER-diagram"/>
+  <img src="https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/blob/main/doc/Stage6_Project%20Report%20and%20Demo%20Video/Image/Stage2_ER_diagram-v01.drawio.png" alt="ER-diagram"/>
 </p>
 
 
 And this is our latest one.  
 <p align="center">
-  <img src="https://github.com/cs411-alawini/sp23-cs411-team018-FinalProject/blob/main/doc/Stage2_Conceptual_and_Logical_Database_Design/Stage2_image/411Group18-Stage2_ER_diagram-v05.png" alt="ER-diagram"/>
+  <img src="https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/blob/main/doc/Stage2_Conceptual_and_Logical_Database_Design/Stage2_image/Stage2_ER_diagram-v05.png" alt="ER-diagram"/>
 </p>
 
 You can see in the first version, we separated the Airport table into the Airport and the City table, because our TA mentioned that separating the Airport table into two subtables is meaningless. We also introduced another source of data to the Airline_Reviews in order to meet the requirements. But in reality, it will be risky because the two different datasets are not 100% compatible. The second one is a more suitable design because it reduces redundancy between tables and yields itself to a more diverse range of usability than the first one.
@@ -54,17 +51,17 @@ We removed the filtering and predictive complements of our application as they w
 
 Our advanced database programs help users view relevant information in a clear and concise format rather than viewing the entire data at once. It also allows users to update data in a much more visually appealing format that is much more convenient for users. For instance, we added a stored procedure to allow users to view airlines and the corresponding average delay time, which may be incredibly useful while selecting which airlines to fly with if one must book a connecting flight.
 
-## 7.	Each team member should describe one technical challenge that the team encountered.  This should be sufficiently detailed such that another future team could use this as helpful advice if they were to start a similar project or where to maintain your project. 
+## 7.	Describe technical challenges that you encountered.  This should be sufficiently detailed such that another future team could use this as helpful advice if they were to start a similar project or where to maintain your project. 
 
-- [Enya Sun](https://github.com/esun2cs): Figuring how to set up GCP in general was an extremely long process. Though we were provided videos and instruction on what steps to take, we spent much time attempting to debug problems on our own end that we were unable to consult the videos for. This included condensing our data as mentioned below, and we all had to work together to accurately implement the relations we had planned in our proposal into functioning tables.  
+- Figuring how to set up GCP in general was an extremely long process. Though we were provided videos and instruction on what steps to take, we spent much time attempting to debug problems on our own end that we were unable to consult the videos for. This included condensing our data as mentioned below, and we all had to work together to accurately implement the relations we had planned in our proposal into functioning tables.  
 
-- [Rushika Kumarswamy](https://github.com/rushikak2): Integrating frontend and backend through example sql queries would be helpful. A lot of additional research and debugging had to be done to figure these things out.
+- Integrating frontend and backend through example sql queries would be helpful. A lot of additional research and debugging had to be done to figure these things out.
 
-- [Sriya Mikkilineni](https://github.com/sriyamikki): The scale of our original dataset proved to be much too large for our application in the initial stages of our project. Originally, the 2015 flights dataset that we used had over 4,000,000 individual rows of data. Trying to load the full range of data onto the platforms that we intended to use for the project, including GCP, was a problem because they did not support such large files of data. We struggled to reduce the dataset as well, since none of our data handling applications, such as Pages or Google Sheets, were able to take in the large dataset for us to clean and manipulate. After many hours of struggling, we ended up having to divide the dataset into around 100 different files with subsets of the data and further filtering out those files so that we were able to capture a representative amount of data for the dataset so that its results wouldn’t change but its size would be greatly reduced. With this method, we were able to gather around 15,000 rows of the data to load into our GCP. 
+- The scale of our original dataset proved to be much too large for our application in the initial stages of our project. Originally, the 2015 flights dataset that we used had over 4,000,000 individual rows of data. Trying to load the full range of data onto the platforms that we intended to use for the project, including GCP, was a problem because they did not support such large files of data. We struggled to reduce the dataset as well, since none of our data handling applications, such as Pages or Google Sheets, were able to take in the large dataset for us to clean and manipulate. After many hours of struggling, we ended up having to divide the dataset into around 100 different files with subsets of the data and further filtering out those files so that we were able to capture a representative amount of data for the dataset so that its results wouldn’t change but its size would be greatly reduced. With this method, we were able to gather around 15,000 rows of the data to load into our GCP. 
 
-- [Chen Wang](https://github.com/ollill0823): The bill account problem. The legend should teach us how to cancel our GCP account if we do not use it anymore. There is little information I can find from the website. Future teams should be more careful with the way they spend their GCP credits so that the given codes can last the group for the entirety of the project duration.
+- The bill account problem. The legend should teach us how to cancel our GCP account if we do not use it anymore. There is little information I can find from the website. Future teams should be more careful with the way they spend their GCP credits so that the given codes can last the group for the entirety of the project duration.
 <p align="center">
-  <img src="https://github.com/cs411-alawini/sp23-cs411-team018-FinalProject/blob/main/doc/Stage6_Project%20Report%20and%20Demo%20Video/Image/GCP%20cost.png" alt="ER-diagram"/>
+  <img src="https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/blob/main/doc/Stage6_Project%20Report%20and%20Demo%20Video/Image/GCP%20cost.png" alt="ER-diagram"/>
 </p>
 
 
@@ -78,14 +75,3 @@ One aspect that the application can improve upon is its dataset. Currently, our 
 
 In addition, expanding the different data manipulations that users can do from our interface would be a valuable future task to take on for our application. For example, currently, filtering out data with either one or two constraints has to be done in two separate tasks in our application. Integrating these two functions to work as one unit where the user can either input one, two, or more constraints into the same field so that the filtering process becomes more robust and seamless would improve the usability of our application.
 
-## 10.	Describe the final division of labor and how well you managed teamwork.
-
-- [Enya Sun](https://github.com/esun2cs): I helped work through the indexing portion in GCP, designing advanced queries with the other members, and testing and implementing the triggers. 
-
-- [Rushika Kumarswamy](https://github.com/rushikak2): I helped set up GCP, design relevant and specific SQL queries and meeting the programming requirements of the project.
-
-- [Sriya Mikkilineni](https://github.com/sriyamikki): I helped clean our dataset, condense it into a more manageable load of data, and upload it into GCP such that the data matched the schema that we designed. I also helped research and find helpful resources for the project as well as assisted with testing and implementing the stored procedures.
- 
-- [Chen Wang](https://github.com/ollill0823): I am responsible for the coding(include javascript, html code) and maintaining the Github doc file.
-
-Teamwork was well managed within our group members. We met both in-person and through Zoom to discuss our goals for each stage and to divide up the labor. Most of the work was done all together during the meetings, and any extra work was done individually when necessary.
