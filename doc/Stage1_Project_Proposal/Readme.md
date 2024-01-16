@@ -51,26 +51,6 @@ Functionality List:
 * Generate tables ranking airlines with least delays/cancellations to most
 
 
-### Project work distribution
-* **Backend:**
-The backend portion of our project is expected to be divided into 4 main subcategories. 
-  - The first would be in filtering flights based on their origin or destination airport by directly selecting and analyzing these columns of the raw data. [Sriya Mikkilineni](https://github.com/sriyamikki) will be primarily responsible for this task. 
-  - The second task is to analyze flight delays and cancellations per airline requiring airline-specific filtering of the data. [Rushika Kumarswamy](https://github.com/rushikak2) will be primarily responsible for this task. 
-  - The third task would be to generate statistics and new columns of data based on flights delayed per time of year. [Enya Sun](https://github.com/esun2cs) will be primarily responsible for this task. 
-  - The fourth task would be to analyze the data per week to understand the trends of cancellations/delays per day of the week. [Chen Wang](https://github.com/ollill0823) will be primarily responsible for this task. 
-
-* **Frontend:**
-  - [Sriya Mikkilineni](https://github.com/sriyamikki) and [Enya Sun](https://github.com/esun2cs) will be responsible for the UI which includes designing the map visualization, color coding, and hover information display components. 
-  - [Rushika Kumarswamy](https://github.com/rushikak2) and 
-will be primarily responsible for working on integrating frontend and backend APIs to use derived information and connect it to what information to display. Possible addition (if extra time) of airlines ranking leaderboard and statistics relating to the amount of time delayed, which everyone will work on together.
-
-* **(Additional Breakdown):**
-All visualizations will be per origin or destination respectively
-  - [Rushika Kumarswamy](https://github.com/rushikak2): (Airline Specific) Create a ranking of all airlines in terms of delays
-  - [Chen Wang](https://github.com/ollill0823): (Time of the year) Generate statistics and new columns of data based on flights delayed per time of year
-  - [Sriya Mikkilineni](https://github.com/sriyamikki): (day of the week) Generate statistics to display flights delayed based on the day of the week
-  - [Enya Sun](https://github.com/esun2cs): Taking in user input and displaying relevant information. Ex: origin/destination/Airlines/Time of year
-
 
 * **Data cleaning/compression note:**
 	Since we will not be using entire dataset, we plan to randomly select roughly 850 rows from each month to ensure accurate representation of compressed data (we are mainly focusing on the frequency of delays per airline instead of per month). Everyone will work together to write a function for this task. 
