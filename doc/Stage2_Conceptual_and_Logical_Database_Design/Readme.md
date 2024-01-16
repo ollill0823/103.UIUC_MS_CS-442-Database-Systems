@@ -3,7 +3,7 @@
 ## URL version Diagram:
 
 <p align="center">
-  <img src="https://github.com/cs411-alawini/sp23-cs411-team018-FinalProject/blob/main/doc/Stage2_Conceptual_and_Logical_Database_Design/Stage2_image/411Group18-Stage2_ER_diagram-v05.png" alt="ER-diagram"/>
+  <img src="https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/blob/main/doc/Stage2_Conceptual_and_Logical_Database_Design/Stage2_image/411Group18-Stage2_ER_diagram-v05.png" alt="ER-diagram"/>
 </p>
 
 * **Airport &#8592;&#8594; Flight:**  
