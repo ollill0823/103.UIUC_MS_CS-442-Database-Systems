@@ -4,7 +4,7 @@
 
 ### A. node.js:
 <p align="center">
-  <img src="https://github.com/cs411-alawini/sp23-cs411-team018-FinalProject/blob/main/doc/Stage4_Midterm_Demo/Image/Function_table.png" alt="Function-table"/>
+  <img src="https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/blob/main/doc/Stage4_Midterm_Demo/Image/Function_table.png" alt="Function-table"/>
 </p>
 
 ``` js
@@ -167,7 +167,7 @@ app.listen(80, function () {
 
 ### B. html .ejs file:
 <p align="center">
-  <img src="https://github.com/cs411-alawini/sp23-cs411-team018-FinalProject/blob/main/doc/Stage4_Midterm_Demo/Image/Function_table.png" alt="Function-table"/>
+  <img src="https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/blob/main/doc/Stage4_Midterm_Demo/Image/Function_table.png" alt="Function-table"/>
 </p>
 
 ``` bash
