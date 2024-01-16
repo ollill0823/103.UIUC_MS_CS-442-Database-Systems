@@ -15,7 +15,7 @@
 
 
 ### Empirical results:
-  **Stage1 Project Proposal:** [Stage1](https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/tree/main/doc/Stage1_Project_Proposal)
+  **[Stage1 Project Proposal:](https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/tree/main/doc/Stage1_Project_Proposal)** [Stage1](https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/tree/main/doc/Stage1_Project_Proposal)
   
   **Stage2 Conceptual and Logical Database Design:** [Stage2](https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/tree/main/doc/Stage2_Conceptual_and_Logical_Database_Design)
   
