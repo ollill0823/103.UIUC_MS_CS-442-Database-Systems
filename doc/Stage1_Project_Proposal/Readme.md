@@ -32,7 +32,7 @@ For this project, we will be using the Kaggle dataset “2015 Flight Delays and 
 * Low-fidelity UI mockup(Website map):
 
 <p align="center">
-  <img src="https://github.com/cs411-alawini/sp23-cs411-team018-FinalProject/blob/main/Image/UI%20mock%20up.png" alt="Low-fidelity UI mockup(Website map)"/>
+  <img src="https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/blob/main/doc/Stage1_Project_Proposal/Stage1_image/UI%20mockup.png" alt="Low-fidelity UI mockup(Website map)"/>
 </p>
 
 
@@ -40,7 +40,7 @@ For this project, we will be using the Kaggle dataset “2015 Flight Delays and 
 * Website tables (dummy numbers for demonstration): 
 
 <p align="center">
-  <img src="https://github.com/cs411-alawini/sp23-cs411-team018-FinalProject/blob/main/Image/Schema%20simulation.png" alt="Website tables"/>
+  <img src="https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/blob/main/doc/Stage1_Project_Proposal/Stage1_image/Schema%20simulation.png" alt="Website tables"/>
 </p>
 
 Functionality List:
