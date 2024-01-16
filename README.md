@@ -15,25 +15,25 @@
 
 
 ### Empirical results:
-  **[Stage1 Project Proposal:](https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/tree/main/doc/Stage1_Project_Proposal)** [Stage1](https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/tree/main/doc/Stage1_Project_Proposal)
+  **[Stage1 Project Proposal:](https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/tree/main/doc/Stage1_Project_Proposal)** 
   
-  **Stage2 Conceptual and Logical Database Design:** [Stage2](https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/tree/main/doc/Stage2_Conceptual_and_Logical_Database_Design)
+  **[Stage2 Conceptual and Logical Database Design:](https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/tree/main/doc/Stage2_Conceptual_and_Logical_Database_Design)** 
   
   - Using draw.io for visual design, create a URL version diagram, disclose an ER-diagram, and provide the corresponding SQL command.
   
-  **Stage3 Database Implementation and Indexing:** [Stage3](https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/tree/main/doc/Stage3_Database_Implementatio_and_Indexing)
+  **[Stage3 Database Implementation and Indexing:](https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/tree/main/doc/Stage3_Database_Implementatio_and_Indexing)** 
 
   - Implementing raw data and its corresponding SQL schema into the Google Cloud platform system, followed by code execution to test functionality and usefulness.
   
-  **Stage4 Midterm Demo:** [Stage4](https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/tree/main/doc/Stage4_Midterm_Demo)
+  **[Stage4 Midterm Demo:](https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/tree/main/doc/Stage4_Midterm_Demo)** 
   
   - Utilizing Neo4j to create a question-and-answer HTML page, along with the design of engaging and interesting questions.
   
-  **Stage5 Final Demo:** [Stage5](https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/tree/main/doc/Stage5_Final%20Demo_%20Putting%20everything%20together)
+  **[Stage5 Final Demo:](https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/tree/main/doc/Stage5_Final%20Demo_%20Putting%20everything%20together)** 
 
   - Testing all functions and incorporating diversity into the HTML page.
   
-  **Stage6 roject Report, demo, and discussion:** [Stage6](https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/tree/main/doc/Stage6_Project%20Report%20and%20Demo%20Video)
+  **[Stage6 roject Report, demo, and discussion:](https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/tree/main/doc/Stage6_Project%20Report%20and%20Demo%20Video)** 
 
   - Comprehensive project recap, detailing encountered technical challenges, strategies for overcoming them, suggestions for improvement in future steps, and personal reflection.
 
