@@ -160,7 +160,7 @@ We decided to index on the day of the week for this query because we used **DayO
 ![image](https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/blob/main/doc/Stage3_Database_Implementatio_and_Indexing/Image/Query2-1.png)
 
 
-2nd version upload:
+**2nd version upload:**
 
 As seen in the EXPLAIN ANALYZE above, indexing by the day of the week did in fact improve the performance of this query. The nest loop inner join cost only 137.46 this time, which is yet another good improvement from the original query.
 
