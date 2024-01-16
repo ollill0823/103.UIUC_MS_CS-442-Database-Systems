@@ -1,6 +1,6 @@
 
 
-# Stage6: Project Report and Demo Video
+# Stage6: Project Report, demo, discussion
 ------------------------------------------
 
 
