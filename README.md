@@ -16,8 +16,8 @@
 
 ### Empirical results:
   **Stage1 Project Proposal:** [Stage1]()
-  **Stage2 Project Proposal:** [Stage2]()
-  **Stage3 Project Proposal:** [Stage3]()
-  **Stage4 Project Proposal:** [Stage4]()
-  **Stage5 Project Proposal:** [Stage5]()
-  **Stage6 Project Proposal:** [Stage6]()
+  **Stage2 Conceptual and Logical Database Design:** [Stage2](https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/tree/main/doc/Stage2_Conceptual_and_Logical_Database_Design)
+  **Stage3 Database Implementation and Indexing:** [Stage3](https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/tree/main/doc/Stage3_Database_Implementatio_and_Indexing)
+  **Stage4 Midterm Demo:** [Stage4](https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/tree/main/doc/Stage4_Midterm_Demo)
+  **Stage5 Final Demo:** [Stage5](https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/tree/main/doc/Stage5_Final%20Demo_%20Putting%20everything%20together)
+  **Stage6 roject Report, demo, and discussion:** [Stage6](https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/tree/main/doc/Stage6_Project%20Report%20and%20Demo%20Video)
